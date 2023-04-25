@@ -9,5 +9,18 @@
         "name": "Bostjan Cadez"
     },
     "items": [
+        {
+            "id": "https://badvibes--.github.io/LRPAS-Page/test-post.html",
+            "url": "https://badvibes--.github.io/LRPAS-Page/test-post.html",
+            "title": "Test post",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"560\" height=\"314\" src=\"https://www.youtube-nocookie.com/embed/VOG2rsNEbIw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>",
+            "author": {
+                "name": "Bostjan Cadez"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-25T19:02:50+02:00",
+            "date_modified": "2023-04-25T19:20:21+02:00"
+        }
     ]
 }

@@ -3,10 +3,26 @@
     <title>Line Rider: Plane And Simple</title>
     <link href="https://badvibes--.github.io/LRPAS-Page/feed.xml" rel="self" />
     <link href="https://badvibes--.github.io/LRPAS-Page" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2023-04-25T19:20:21+02:00</updated>
     <author>
         <name>Bostjan Cadez</name>
     </author>
     <id>https://badvibes--.github.io/LRPAS-Page</id>
 
+    <entry>
+        <title>Test post</title>
+        <author>
+            <name>Bostjan Cadez</name>
+        </author>
+        <link href="https://badvibes--.github.io/LRPAS-Page/test-post.html"/>
+        <id>https://badvibes--.github.io/LRPAS-Page/test-post.html</id>
+
+        <updated>2023-04-25T19:20:21+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube-nocookie.com/embed/VOG2rsNEbIw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>
