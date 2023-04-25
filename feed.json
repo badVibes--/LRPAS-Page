@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Line Rider: Plane And Simple",
     "description": "",
-    "home_page_url": "https://badvibes--.github.io/LRPAS-Page",
-    "feed_url": "https://badvibes--.github.io/LRPAS-Page/feed.json",
+    "home_page_url": "https://badvibes--.github.io/LRPAS-Page/index.html",
+    "feed_url": "https://badvibes--.github.io/LRPAS-Page/index.html/feed.json",
     "user_comment": "",
     "author": {
         "name": "Bostjan Cadez"

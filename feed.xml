@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Line Rider: Plane And Simple</title>
-    <link href="https://badvibes--.github.io/LRPAS-Page/feed.xml" rel="self" />
-    <link href="https://badvibes--.github.io/LRPAS-Page" />
+    <link href="https://badvibes--.github.io/LRPAS-Page/index.html/feed.xml" rel="self" />
+    <link href="https://badvibes--.github.io/LRPAS-Page/index.html" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Bostjan Cadez</name>
     </author>
-    <id>https://badvibes--.github.io/LRPAS-Page</id>
+    <id>https://badvibes--.github.io/LRPAS-Page/index.html</id>
 
 </feed>
