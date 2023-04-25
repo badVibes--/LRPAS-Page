@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://badvibes--.github.io/LRPAS-Page/sitemap.xml
